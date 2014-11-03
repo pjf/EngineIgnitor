@@ -6,4 +6,8 @@ There are no extra bundled zips to unpackage, they now have ModuleManager direct
 
 This repack has only been tested with RealismOverhaul installed. It may contain bugs not in the original.
 
+You can find HoneyFox's original source at https://github.com/HoneyFox/EngineIgnitor.
+
+You can find the EngineIgnitor thread at: http://forum.kerbalspaceprogram.com/threads/51880
+
 License: MIT
